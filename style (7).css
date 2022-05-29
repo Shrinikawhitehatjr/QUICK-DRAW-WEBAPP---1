@@ -1,0 +1,10 @@
+.body {
+    background-color: blueviolet;
+    font-size: 24px
+    margin-left: 2px
+}
+.span {
+    font-size: 18px;
+    float:right
+    margin: right
+}
